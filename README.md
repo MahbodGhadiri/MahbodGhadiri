@@ -49,7 +49,7 @@ A C++ implementation of the classic 2048 game, demonstrating object-oriented pro
 
 ![Mahbod's GitHub Stats](https://github-stats.mahbod-ghadiri-sani.net/?username=MahbodGhadiri&show_icons=true&theme=radical)
 
-![Top Languages](https://github.stats-mahbod-ghadiri-sani.net/top-langs/?username=MahbodGhadiri&layout=compact&theme=radical)
+![Top Languages](https://github-stats.mahbod-ghadiri-sani.net/top-langs/?username=MahbodGhadiri&layout=compact&theme=radical)
 
 ---
 
